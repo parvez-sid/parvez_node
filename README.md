@@ -12,4 +12,4 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 ### Routing :
     goto '/' for Login
     goto '/register' for Register
-         '/dashboard' for Dashboard
+         '/tasks' for My Tasks
